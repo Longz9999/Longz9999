@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWNhMmM2NjNkNjJhZWJlZTdlMmIzZTZlYWIxNjNhYWMzZmY4Y2I2NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3pWkPq54Kx6zQ/giphy.gif" width="200" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
+  <img src="https://media.tenor.com/M_4p7i-GjJgAAAAC/anime-girl.gif" width="200" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </div>
 
 <h3 align="center">🎀 Về bản thân mình (About Me)</h3>
@@ -43,8 +43,8 @@
 <h3 align="center">📊 Thống kê hoạt động (GitHub Stats)</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Longz9999&show_icons=true&hide_border=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Longz9999&layout=compact&hide_border=true&theme=radical" height="150" alt="top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Longz9999&show_icons=true&hide_border=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Longz9999&layout=compact&hide_border=true&theme=radical" height="150" alt="top languages" />
 </div>
 
 <div align="center">
@@ -62,12 +62,12 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/Longz9999/Counter_fish">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Longz9999&repo=Counter_fish&theme=radical&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Longz9999&repo=Counter_fish&theme=radical&hide_border=true" />
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/Longz9999/Porfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Longz9999&repo=Porfolio&theme=radical&hide_border=true" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Longz9999&repo=Porfolio&theme=radical&hide_border=true" />
         </a>
       </td>
     </tr>
@@ -76,6 +76,5 @@
 
 <div align="center">
   <br>
-  <img src="https://media.giphy.com/media/L0wUqItA4O0us/giphy.gif" width="120">
   <p><i>Cảm ơn bạn đã ghé thăm! Chúc một ngày tốt lành~</i> 🌸</p>
 </div>
