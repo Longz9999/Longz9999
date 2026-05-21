@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=Software+Developer+💻;AI+%26+Computer+Vision+Enthusiast+🤖;Always+Learning+New+Tech+✨" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F77F00&center=true&vCenter=true&width=500&lines=Software+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,13 +43,12 @@
 <h3 align="center">📊 Thống kê hoạt động (GitHub Stats)</h3>
 
 <div align="center">
-  <!-- Sử dụng theme trong suốt với màu chữ nổi bật để hiển thị đẹp trên cả nền Sáng và Tối -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Longz9999&show_icons=true&hide_border=true&bg_color=00000000&title_color=F77F00&text_color=4a6fa5&icon_color=38b764" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Longz9999&layout=compact&hide_border=true&bg_color=00000000&title_color=F77F00&text_color=4a6fa5" height="150" alt="top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Longz9999&show_icons=true&hide_border=true&theme=radical" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Longz9999&layout=compact&hide_border=true&theme=radical" height="150" alt="top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Longz9999&hide_border=true&background=00000000&currStreakNum=38b764&sideNums=4a6fa5&sideLabels=F77F00&dates=4a6fa5" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Longz9999&hide_border=true&theme=radical" height="150" alt="GitHub Streak" />
 </div>
 
 <br>
@@ -63,12 +62,12 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/Longz9999/Counter_fish">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Longz9999&repo=Counter_fish&bg_color=00000000&title_color=F77F00&text_color=4a6fa5&icon_color=38b764&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Longz9999&repo=Counter_fish&theme=radical&hide_border=true" />
         </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/Longz9999/Porfolio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Longz9999&repo=Porfolio&bg_color=00000000&title_color=F77F00&text_color=4a6fa5&icon_color=38b764&hide_border=true" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Longz9999&repo=Porfolio&theme=radical&hide_border=true" />
         </a>
       </td>
     </tr>
